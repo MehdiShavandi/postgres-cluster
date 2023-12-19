@@ -256,7 +256,7 @@ fi
 2- docker network create web_net  
 3- docker compose up -d
 
-![Repository server and gitlab runner design](images/Capture.JPG)
+![Repository server and gitlab runner design](images/Capture.jpg)
 
 Open http://localhost:3000 to watch stats.
 
